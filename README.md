@@ -20,3 +20,5 @@ https://www.amazon.com/Uxcell-a16041800ux0824-Knurled-Threaded-Embedment/dp/B01I
 https://www.amazon.com/Uxcell-a16022300ux0165-M3x10mm-Socket-Countersunk/dp/B01DIL1KDS/
 
 https://www.amazon.com/Noctua-Cooling-Bearing-NF-A4X10-FLX-5V/dp/B00NEMGCIA/
+
+https://www.harborfreight.com/rotary-tool-kit-80-pc-63235.html

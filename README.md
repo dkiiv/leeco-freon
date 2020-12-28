@@ -1,4 +1,10 @@
 # leeco-freon
+# updates
+update 1: all parts printed, general design can be put together but need to increase wall thickness for the phone by about another millimeter aswell as make more clearance for the phone.
+
+# issues
+issue 1: looking into making a different type of mount as the go pro mount is a pain the ass. something to investigate
+
 Not printed (yet)
 
 100% opensource, source files are included here

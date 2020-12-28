@@ -5,7 +5,7 @@ update 1: all parts printed, general design can be put together but need to incr
 # issues
 issue 1: looking into making a different type of mount as the go pro mount is a pain the ass. something to investigate
 
-Not printed (yet)
+# other stuff
 
 100% opensource, source files are included here
 

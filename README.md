@@ -1,9 +1,6 @@
 # leeco-freon
 # updates
-update 1: all parts printed, general design can be put together but need to increase wall thickness for the phone by about another millimeter aswell as make more clearance for the phone.
-
-# issues
-issue 1: looking into making a different type of mount as the go pro mount is a pain the ass. something to investigate
+Did a redesign! Should fit better now, added eonPCB holder, added non-eonPCB right side, made it look better, made thicker walls
 
 # other stuff
 
@@ -14,8 +11,8 @@ Find me on discord @ khonsu#2473
 Do what you will with these parts
 
 
-![alt text](https://cdn.discordapp.com/attachments/534139378772082749/784475122400362496/unknown.png)
-![alt text](https://cdn.discordapp.com/attachments/534139378772082749/784475066335100959/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/706946515007963169/801134891063312444/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/706946515007963169/801135111570980874/unknown.png)
 
 
 # parts needed

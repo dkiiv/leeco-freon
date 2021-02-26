@@ -27,3 +27,15 @@ https://www.amazon.com/Noctua-Cooling-Bearing-NF-A4X10-FLX-5V/dp/B00NEMGCIA/
 https://www.amazon.com/dp/B00BUD6LPY/
 
 https://www.harborfreight.com/rotary-tool-kit-80-pc-63235.html
+
+# ali suppliers
+https://www.aliexpress.com/item/1005001683788574.html
+
+https://www.aliexpress.com/item/4000541977803.html
+
+https://www.aliexpress.com/item/32877928916.html
+
+https://www.aliexpress.com/item/32867928416.html
+
+LCD Screen
+https://www.aliexpress.com/item/32839061385.html

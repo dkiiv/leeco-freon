@@ -22,7 +22,7 @@ https://www.amazon.com/Uxcell-a16041800ux0824-Knurled-Threaded-Embedment/dp/B01I
 
 https://www.amazon.com/Uxcell-a16022300ux0165-M3x10mm-Socket-Countersunk/dp/B01DIL1KDS/
 
-https://www.amazon.com/uxcell-Socket-Machine-Screws-Black/dp/B00W97KM4G/
+https://www.amazon.com/M3x14mm-Screw-Socket-Screws-100Pcs/dp/B0143GZU4W/
 
 https://www.amazon.com/Noctua-Cooling-Bearing-NF-A4X10-FLX-5V/dp/B00NEMGCIA/
 

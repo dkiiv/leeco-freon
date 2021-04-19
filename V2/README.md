@@ -2,7 +2,9 @@
 
 # updates
 
-No more dremel for V2! Working on update
+No more dremel for V2!
+
+First real update! I have officially start work on the new case, photo's are now in
 
 # other stuff
 
@@ -12,7 +14,12 @@ Find me on discord @ khonsu#2473
 
 Do what you will with these parts
 
-No photo's yet, working on device in CAD still
+
+![alt text](https://cdn.discordapp.com/attachments/534139378772082749/833541831899086928/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/534139378772082749/833541754388742154/unknown.png)
+
+Note: Case may not look exactly like this, there is still work to be done! I will keep an updated photo as best as I can. Thank you
+
 
 # parts needed
 https://www.amazon.com/100x60x10mm-Aluminum-Amplifier-Transistor-Semiconductor/dp/B07PJYDCMH/

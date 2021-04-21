@@ -24,3 +24,6 @@ Not yet made, working on it!
 PayPal: curtis.x.jenkins@gmail.com
 
 BTC: 3C9qF9woDSNqh9GgWBRSYfgjXcnsRhkMYU
+
+# patrons that make this case possible!
+Julian Doyle

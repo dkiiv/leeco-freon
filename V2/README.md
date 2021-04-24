@@ -4,7 +4,7 @@
 
 No more dremel for V2!
 
-First real update! I have officially start work on the new case, photo's are now in
+Only working on the non-IR version for now until I actually make an IR PCB
 
 # other stuff
 

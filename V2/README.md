@@ -15,8 +15,8 @@ Find me on discord @ khonsu#2473
 Do what you will with these parts
 
 
-![alt text](https://cdn.discordapp.com/attachments/534139378772082749/833541831899086928/unknown.png)
-![alt text](https://cdn.discordapp.com/attachments/534139378772082749/833541754388742154/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/771503610453819412/848718863708717066/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/771503610453819412/848718972588392479/unknown.png)
 
 Note: Case may not look exactly like this, there is still work to be done! I will keep an updated photo as best as I can. Thank you
 
